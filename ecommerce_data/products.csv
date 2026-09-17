@@ -1,0 +1,1001 @@
+ProductID,CategoryID,ProductName,Brand,Price,Cost,Stock
+1,12,Bose Printer 1,Bose,261.16,140.65,399
+2,3,Lenovo Mouse 2,Lenovo,1874.2,1460.92,155
+3,12,Sony Headphones 3,Sony,1272.54,846.77,315
+4,11,LG Smart Watch 4,LG,1180.67,637.81,95
+5,16,Bose Television 5,Bose,253.18,165.51,375
+6,4,Bose Headphones 6,Bose,2070.53,1524.96,256
+7,5,Apple Headphones 7,Apple,2542.44,1485.25,181
+8,5,Bose Backpack 8,Bose,2231.71,1713.33,195
+9,15,Nike Mouse 9,Nike,1640.83,1360.22,190
+10,7,Adidas Desk 10,Adidas,1387.12,788.52,433
+11,16,Canon Tablet 11,Canon,2247.37,1771.17,23
+12,5,Lenovo Chair 12,Lenovo,667.9,487.13,367
+13,13,LG Headphones 13,LG,2885.02,1747.38,403
+14,6,Lenovo Laptop 14,Lenovo,1492.83,853.42,111
+15,4,Logitech Smartphone 15,Logitech,233.42,154.05,398
+16,10,Lenovo Tablet 16,Lenovo,538.87,395.98,191
+17,17,LG Gaming Console 17,LG,695.76,494.22,272
+18,7,Lenovo Laptop 18,Lenovo,2663.78,1719.42,245
+19,13,Microsoft Headphones 19,Microsoft,953.32,656.39,289
+20,17,Adidas Headphones 20,Adidas,2709.13,2233.52,110
+21,18,Adidas Keyboard 21,Adidas,2342.64,1360.99,14
+22,8,LG Monitor 22,LG,1469.54,1045.1,328
+23,8,Dell Printer 23,Dell,2076.48,1095.48,176
+24,5,Apple Printer 24,Apple,2342.8,1751.08,485
+25,6,HP Printer 25,HP,1458.01,758.42,168
+26,9,Canon Headphones 26,Canon,211.95,173.32,25
+27,5,Dell Tablet 27,Dell,1745.45,922.79,231
+28,17,Samsung Monitor 28,Samsung,487.5,325.62,265
+29,3,LG Chair 29,LG,1618.69,1062.22,298
+30,2,Adidas Smart Watch 30,Adidas,2546.99,1701.8,346
+31,20,Lenovo Television 31,Lenovo,2192.71,1738.33,266
+32,19,Microsoft Smart Watch 32,Microsoft,1441.65,864.56,314
+33,20,Apple Tablet 33,Apple,189.5,105.44,444
+34,16,Bose Headphones 34,Bose,390.23,233.24,437
+35,11,Adidas Smartphone 35,Adidas,2963.78,1851.12,377
+36,20,Samsung Backpack 36,Samsung,1612.92,864.04,481
+37,14,Canon Television 37,Canon,249.37,143.12,410
+38,11,Apple Monitor 38,Apple,1231.02,720.32,208
+39,6,Sony Desk 39,Sony,1797.21,1515.72,187
+40,15,Apple Headphones 40,Apple,2457.57,1869.46,385
+41,14,Adidas Smart Watch 41,Adidas,1798.12,1282.2,111
+42,17,Adidas Monitor 42,Adidas,231.67,162.37,456
+43,19,Adidas Headphones 43,Adidas,1951.85,1581.92,27
+44,6,Samsung Television 44,Samsung,2099.14,1133.2,106
+45,16,Bose Monitor 45,Bose,249.04,210.91,178
+46,6,LG Monitor 46,LG,362.46,209.37,353
+47,4,Adidas Printer 47,Adidas,2410.94,1409.74,240
+48,11,Lenovo Laptop 48,Lenovo,817.93,419.45,434
+49,20,Microsoft Tablet 49,Microsoft,2507.69,1466.84,344
+50,12,Adidas Mouse 50,Adidas,2254.21,1420.27,397
+51,8,HP Desk 51,HP,1038.4,672.24,495
+52,20,Dell Smartphone 52,Dell,2752.87,1904.59,425
+53,16,Logitech Printer 53,Logitech,2554.82,2170.87,111
+54,5,Sony Backpack 54,Sony,453.59,277.94,492
+55,4,Canon Printer 55,Canon,1325.08,788.84,426
+56,6,Canon Television 56,Canon,981.56,793.3,34
+57,9,Apple Tablet 57,Apple,2499.57,2008.84,459
+58,6,Canon Smartphone 58,Canon,2125.87,1364.88,19
+59,18,Lenovo Mouse 59,Lenovo,1197.59,838.32,133
+60,4,Sony Keyboard 60,Sony,2477.95,1866.3,284
+61,8,Microsoft Laptop 61,Microsoft,299.57,190.64,397
+62,8,LG Printer 62,LG,45.86,35.32,240
+63,17,Samsung Printer 63,Samsung,1991.2,1230.93,490
+64,19,Bose Backpack 64,Bose,1297.37,949.1,185
+65,19,Canon Backpack 65,Canon,1624.37,889.28,142
+66,2,Dell Desk 66,Dell,1695.96,1292.73,309
+67,4,Sony Monitor 67,Sony,1393.49,1006.96,456
+68,3,HP Backpack 68,HP,1267.24,859.03,34
+69,7,Nike Headphones 69,Nike,2889.71,1920.69,478
+70,1,HP Television 70,HP,1445.09,791.37,245
+71,10,Dell Keyboard 71,Dell,2924.37,2185.15,92
+72,6,Apple Keyboard 72,Apple,1946.09,1473.66,483
+73,20,Bose Monitor 73,Bose,1585.13,1231.91,369
+74,2,HP Gaming Console 74,HP,1247.15,1021.82,94
+75,14,Adidas Backpack 75,Adidas,951.76,776.28,48
+76,4,Lenovo Tablet 76,Lenovo,1953.46,1188.68,137
+77,18,Samsung Television 77,Samsung,2620.39,1558.51,342
+78,6,Sony Chair 78,Sony,2085.52,1221.34,428
+79,1,Canon Mouse 79,Canon,2099.17,1275.62,210
+80,3,Apple Television 80,Apple,371.69,281.57,218
+81,11,Microsoft Chair 81,Microsoft,1261.25,751.56,313
+82,10,Adidas Printer 82,Adidas,327.09,220.21,98
+83,20,Sony Laptop 83,Sony,2125.91,1730.57,239
+84,10,Apple Mouse 84,Apple,2495.84,1365.18,429
+85,20,Apple Headphones 85,Apple,186.29,152.43,91
+86,3,Microsoft Mouse 86,Microsoft,100.94,57.52,196
+87,9,Logitech Laptop 87,Logitech,560.09,393.33,89
+88,6,Microsoft Headphones 88,Microsoft,740.75,469.47,195
+89,14,HP Mouse 89,HP,1807.85,1394.54,291
+90,8,Apple Smartphone 90,Apple,1621.03,863.43,128
+91,18,Microsoft Laptop 91,Microsoft,2351.66,1333.76,346
+92,8,Logitech Television 92,Logitech,2354.66,1429.14,143
+93,5,Adidas Tablet 93,Adidas,896.29,566.9,344
+94,7,Logitech Keyboard 94,Logitech,825.07,467.78,412
+95,17,HP Keyboard 95,HP,1625.62,943.71,121
+96,16,LG Camera 96,LG,1125.36,932.56,377
+97,14,LG Camera 97,LG,2709.54,1596.03,19
+98,12,Adidas Gaming Console 98,Adidas,2439.57,1369.83,127
+99,6,Sony Camera 99,Sony,1163.48,834.31,68
+100,11,Samsung Desk 100,Samsung,82.05,48.75,174
+101,19,Adidas Desk 101,Adidas,2588.67,1442.1,388
+102,17,Nike Keyboard 102,Nike,2424.74,2051.44,311
+103,1,LG Printer 103,LG,761.24,494.37,463
+104,10,Nike Desk 104,Nike,993.74,609.11,49
+105,13,Adidas Chair 105,Adidas,997.85,589.25,63
+106,17,Microsoft Chair 106,Microsoft,620.2,318.27,303
+107,11,HP Smart Watch 107,HP,836.43,579.37,486
+108,9,LG Television 108,LG,2958.15,2244.79,312
+109,13,Adidas Printer 109,Adidas,1558.71,1015.93,230
+110,20,Apple Gaming Console 110,Apple,1746.58,1152.65,209
+111,15,LG Desk 111,LG,2106.83,1683.98,11
+112,19,Apple Smart Watch 112,Apple,173.44,138.09,318
+113,3,Lenovo Camera 113,Lenovo,98.42,75.35,408
+114,15,LG Mouse 114,LG,325.83,207.64,424
+115,14,Adidas Smartphone 115,Adidas,2189.13,1094.6,173
+116,17,Nike Headphones 116,Nike,1278.68,648.29,49
+117,10,HP Tablet 117,HP,797.06,645.93,349
+118,10,Logitech Printer 118,Logitech,2089.0,1753.46,188
+119,14,Lenovo Backpack 119,Lenovo,1734.94,1066.44,452
+120,11,LG Chair 120,LG,2283.22,1154.91,171
+121,14,Nike Monitor 121,Nike,2573.48,1806.11,485
+122,11,Lenovo Gaming Console 122,Lenovo,946.38,518.14,364
+123,6,Canon Desk 123,Canon,2390.31,1558.77,241
+124,18,Apple Smart Watch 124,Apple,1771.73,1443.66,410
+125,10,Logitech Laptop 125,Logitech,2877.72,2289.43,169
+126,8,Canon Headphones 126,Canon,1625.97,1308.83,251
+127,6,Bose Camera 127,Bose,2271.6,1831.12,154
+128,3,Logitech Camera 128,Logitech,1894.97,1451.94,127
+129,10,Adidas Desk 129,Adidas,1727.45,1322.47,208
+130,2,HP Mouse 130,HP,2020.1,1148.53,262
+131,1,Bose Smartphone 131,Bose,2165.87,1147.05,394
+132,5,Apple Mouse 132,Apple,1329.04,933.43,307
+133,20,Adidas Television 133,Adidas,1952.6,977.35,150
+134,12,Nike Smart Watch 134,Nike,459.34,369.25,362
+135,12,HP Backpack 135,HP,1582.06,1211.3,24
+136,13,Canon Monitor 136,Canon,996.09,549.18,484
+137,14,Logitech Monitor 137,Logitech,662.58,401.8,144
+138,20,Canon Headphones 138,Canon,789.33,535.19,306
+139,8,HP Tablet 139,HP,713.23,490.72,345
+140,8,Canon Smart Watch 140,Canon,1124.94,830.06,45
+141,2,Nike Backpack 141,Nike,1356.51,782.63,63
+142,10,LG Backpack 142,LG,854.22,533.94,236
+143,6,LG Monitor 143,LG,2032.1,1649.19,198
+144,15,Adidas Printer 144,Adidas,1623.78,1207.8,260
+145,20,Bose Smart Watch 145,Bose,1475.39,993.77,401
+146,12,Lenovo Monitor 146,Lenovo,1847.56,1366.18,332
+147,17,HP Desk 147,HP,2144.33,1175.99,181
+148,15,Samsung Desk 148,Samsung,2254.72,1748.59,449
+149,8,Lenovo Smart Watch 149,Lenovo,1439.07,954.11,285
+150,1,Nike Desk 150,Nike,810.11,447.67,490
+151,14,Sony Smart Watch 151,Sony,1412.39,746.0,305
+152,7,Bose Smart Watch 152,Bose,908.18,478.26,386
+153,7,Samsung Printer 153,Samsung,1962.19,1123.92,318
+154,2,Canon Keyboard 154,Canon,1937.18,1000.13,435
+155,2,Adidas Gaming Console 155,Adidas,2393.0,1508.57,182
+156,5,HP Mouse 156,HP,741.66,446.24,134
+157,17,LG Television 157,LG,2949.91,2301.44,335
+158,12,Logitech Monitor 158,Logitech,753.09,627.96,467
+159,5,Logitech Television 159,Logitech,2825.63,1837.91,16
+160,1,Microsoft Laptop 160,Microsoft,2587.87,1327.28,238
+161,3,Microsoft Keyboard 161,Microsoft,229.02,173.47,417
+162,12,Bose Gaming Console 162,Bose,2476.93,1305.91,307
+163,20,Sony Desk 163,Sony,1515.56,1071.58,204
+164,3,Adidas Mouse 164,Adidas,278.56,149.21,454
+165,7,LG Keyboard 165,LG,2251.65,1478.74,475
+166,14,LG Smart Watch 166,LG,247.97,187.36,240
+167,3,Nike Camera 167,Nike,1541.97,1183.37,209
+168,1,LG Headphones 168,LG,856.38,566.53,298
+169,13,Canon Laptop 169,Canon,1651.73,911.0,314
+170,12,Microsoft Printer 170,Microsoft,2141.8,1347.41,175
+171,12,Canon Keyboard 171,Canon,69.99,50.72,34
+172,6,Dell Gaming Console 172,Dell,2110.12,1565.88,1
+173,19,Samsung Keyboard 173,Samsung,2119.03,1427.66,465
+174,11,Adidas Printer 174,Adidas,849.15,567.58,123
+175,14,Sony Laptop 175,Sony,540.71,299.8,129
+176,3,Samsung Headphones 176,Samsung,664.52,352.78,198
+177,10,Adidas Monitor 177,Adidas,1463.97,963.11,124
+178,19,Adidas Gaming Console 178,Adidas,2517.27,1481.83,375
+179,11,Dell Keyboard 179,Dell,519.63,342.6,442
+180,1,Samsung Smartphone 180,Samsung,580.17,413.08,144
+181,6,Logitech Smart Watch 181,Logitech,2750.65,1592.83,258
+182,8,Canon Backpack 182,Canon,2518.14,2133.47,275
+183,14,Nike Smart Watch 183,Nike,1252.59,1032.12,442
+184,10,Sony Backpack 184,Sony,304.63,161.93,104
+185,3,Adidas Mouse 185,Adidas,1526.34,863.55,72
+186,12,Bose Headphones 186,Bose,602.87,491.49,496
+187,11,Adidas Printer 187,Adidas,1612.84,850.75,107
+188,18,Adidas Smart Watch 188,Adidas,1106.75,618.37,60
+189,20,Samsung Printer 189,Samsung,997.05,804.51,413
+190,19,Apple Chair 190,Apple,1577.09,1178.18,346
+191,6,Sony Mouse 191,Sony,2913.95,2021.99,192
+192,17,Nike Headphones 192,Nike,2521.72,2119.63,56
+193,12,Apple Monitor 193,Apple,2278.54,1281.08,275
+194,19,Apple Printer 194,Apple,676.61,464.41,488
+195,18,HP Laptop 195,HP,2676.76,2055.48,374
+196,18,Lenovo Monitor 196,Lenovo,213.79,126.22,197
+197,5,Dell Keyboard 197,Dell,2116.66,1785.85,88
+198,4,Canon Smart Watch 198,Canon,2073.63,1672.81,294
+199,8,Canon Printer 199,Canon,2934.66,2337.3,430
+200,4,HP Smart Watch 200,HP,536.7,365.09,79
+201,10,Apple Headphones 201,Apple,290.22,153.96,370
+202,7,Sony Mouse 202,Sony,763.39,470.49,328
+203,7,Samsung Monitor 203,Samsung,2549.95,2124.86,164
+204,7,Nike Smart Watch 204,Nike,195.48,118.77,5
+205,18,Microsoft Laptop 205,Microsoft,282.09,211.36,457
+206,14,Sony Chair 206,Sony,1094.48,757.56,339
+207,11,HP Headphones 207,HP,1380.72,1048.65,362
+208,10,Adidas Chair 208,Adidas,990.1,802.2,61
+209,6,Microsoft Printer 209,Microsoft,1800.95,962.42,208
+210,9,Apple Television 210,Apple,1036.9,538.44,157
+211,20,Apple Headphones 211,Apple,2753.74,2151.48,11
+212,13,Samsung Smartphone 212,Samsung,2946.96,1865.98,315
+213,2,Canon Gaming Console 213,Canon,2687.61,2179.29,435
+214,17,Bose Tablet 214,Bose,1916.62,1065.67,128
+215,4,Dell Camera 215,Dell,1225.4,673.34,422
+216,5,Logitech Mouse 216,Logitech,2067.3,1491.53,255
+217,13,Microsoft Printer 217,Microsoft,528.09,408.61,427
+218,13,Lenovo Television 218,Lenovo,2864.72,1462.92,99
+219,16,Samsung Gaming Console 219,Samsung,1727.35,1427.38,44
+220,1,Logitech Chair 220,Logitech,1048.88,609.02,338
+221,12,Nike Television 221,Nike,1486.98,1139.06,282
+222,2,Logitech Laptop 222,Logitech,2116.31,1175.11,15
+223,15,Nike Printer 223,Nike,2740.35,1626.58,173
+224,5,Dell Smartphone 224,Dell,777.18,440.65,237
+225,20,Canon Backpack 225,Canon,1061.95,640.71,95
+226,2,Bose Backpack 226,Bose,1006.92,854.42,452
+227,1,LG Camera 227,LG,2125.36,1172.34,323
+228,1,Dell Laptop 228,Dell,2421.92,1248.19,282
+229,6,Lenovo Desk 229,Lenovo,801.2,517.96,183
+230,16,Microsoft Gaming Console 230,Microsoft,805.2,671.63,204
+231,11,Apple Desk 231,Apple,144.14,101.31,131
+232,17,LG Headphones 232,LG,2916.72,2054.97,169
+233,9,Logitech Mouse 233,Logitech,628.63,334.95,199
+234,12,Nike Camera 234,Nike,1305.62,714.29,263
+235,17,LG Backpack 235,LG,1535.8,1042.28,372
+236,12,Microsoft Printer 236,Microsoft,1288.19,1087.09,500
+237,8,LG Laptop 237,LG,240.73,153.17,490
+238,5,Apple Laptop 238,Apple,2657.45,1457.13,302
+239,4,Samsung Headphones 239,Samsung,2402.11,1930.93,284
+240,9,Nike Chair 240,Nike,1456.34,1028.46,340
+241,3,Samsung Camera 241,Samsung,2265.92,1621.02,109
+242,7,Adidas Keyboard 242,Adidas,1001.23,766.92,373
+243,19,Adidas Monitor 243,Adidas,2396.96,1840.51,373
+244,6,Microsoft Smartphone 244,Microsoft,2853.2,1995.35,157
+245,4,Sony Laptop 245,Sony,793.65,621.51,374
+246,8,Sony Printer 246,Sony,936.72,510.37,122
+247,3,Samsung Television 247,Samsung,2872.79,1847.47,110
+248,19,LG Gaming Console 248,LG,1007.52,581.71,336
+249,16,Bose Camera 249,Bose,43.32,30.1,442
+250,17,LG Chair 250,LG,1223.96,880.49,383
+251,11,Dell Backpack 251,Dell,1152.39,842.73,303
+252,12,Dell Television 252,Dell,2327.41,1928.82,273
+253,6,Samsung Backpack 253,Samsung,1586.1,884.51,274
+254,4,Samsung Monitor 254,Samsung,1590.29,881.01,191
+255,14,Canon Camera 255,Canon,2696.87,1833.83,218
+256,10,LG Backpack 256,LG,2050.89,1622.52,248
+257,16,Sony Keyboard 257,Sony,1517.1,1082.88,204
+258,18,Microsoft Keyboard 258,Microsoft,672.06,565.03,375
+259,11,HP Smartphone 259,HP,2496.23,1663.06,75
+260,12,Sony Mouse 260,Sony,1915.81,1012.33,244
+261,11,Microsoft Gaming Console 261,Microsoft,1807.11,1003.89,257
+262,16,Apple Keyboard 262,Apple,838.12,626.9,494
+263,3,Logitech Headphones 263,Logitech,2123.15,1277.92,269
+264,6,Canon Desk 264,Canon,1297.06,795.27,61
+265,4,Sony Keyboard 265,Sony,2373.93,1701.13,217
+266,8,Apple Mouse 266,Apple,819.3,526.15,403
+267,12,Microsoft Smartphone 267,Microsoft,2340.38,1527.19,454
+268,13,Canon Backpack 268,Canon,1332.99,945.89,121
+269,1,Sony Monitor 269,Sony,2742.27,1418.95,489
+270,17,Bose Headphones 270,Bose,2458.17,1281.59,56
+271,7,Microsoft Mouse 271,Microsoft,2514.63,1332.88,377
+272,16,Dell Keyboard 272,Dell,1963.58,1088.47,472
+273,5,HP Gaming Console 273,HP,1582.49,1211.81,405
+274,10,LG Headphones 274,LG,2321.43,1648.38,245
+275,18,LG Keyboard 275,LG,165.48,119.14,392
+276,2,Samsung Camera 276,Samsung,2865.65,2239.68,447
+277,9,Adidas Keyboard 277,Adidas,44.16,25.23,465
+278,1,Nike Monitor 278,Nike,234.53,187.39,445
+279,8,Canon Headphones 279,Canon,1136.69,918.9,204
+280,16,LG Keyboard 280,LG,330.89,205.51,133
+281,1,Samsung Headphones 281,Samsung,1048.25,739.04,456
+282,20,Canon Backpack 282,Canon,2673.78,1790.35,136
+283,13,Logitech Laptop 283,Logitech,1906.32,1045.09,69
+284,11,Bose Desk 284,Bose,2253.17,1438.15,356
+285,10,Dell Gaming Console 285,Dell,1879.67,981.26,306
+286,17,Logitech Gaming Console 286,Logitech,2466.61,1534.62,227
+287,5,Apple Tablet 287,Apple,2413.0,1514.28,21
+288,12,Logitech Chair 288,Logitech,2910.15,2191.14,435
+289,7,Nike Smart Watch 289,Nike,1680.11,1346.29,344
+290,11,Dell Backpack 290,Dell,2626.76,1818.13,45
+291,13,Sony Printer 291,Sony,563.53,333.01,482
+292,13,LG Gaming Console 292,LG,1443.52,980.44,147
+293,1,Nike Laptop 293,Nike,1348.52,961.94,426
+294,11,Microsoft Gaming Console 294,Microsoft,264.91,204.89,288
+295,4,Sony Mouse 295,Sony,1829.31,956.06,247
+296,3,Apple Keyboard 296,Apple,476.47,351.23,141
+297,10,Apple Television 297,Apple,1819.97,1015.22,105
+298,14,Bose Camera 298,Bose,2754.61,1974.97,91
+299,8,Nike Printer 299,Nike,1561.7,1132.91,339
+300,9,Sony Chair 300,Sony,1331.12,867.93,194
+301,19,Lenovo Mouse 301,Lenovo,2695.71,1802.06,185
+302,20,Lenovo Television 302,Lenovo,804.71,625.93,107
+303,8,Nike Television 303,Nike,2952.29,1922.44,241
+304,4,Dell Tablet 304,Dell,1022.13,657.93,288
+305,1,Samsung Desk 305,Samsung,2493.6,1478.63,313
+306,16,Apple Keyboard 306,Apple,1226.65,1020.95,123
+307,12,Samsung Smartphone 307,Samsung,647.32,458.18,238
+308,2,Nike Keyboard 308,Nike,347.17,288.99,329
+309,15,HP Keyboard 309,HP,2579.25,1981.57,314
+310,3,Nike Camera 310,Nike,2459.57,1797.31,355
+311,5,Sony Camera 311,Sony,535.39,444.32,239
+312,13,Canon Television 312,Canon,778.6,450.14,138
+313,16,Logitech Backpack 313,Logitech,940.88,600.03,168
+314,12,HP Tablet 314,HP,1413.43,1013.22,160
+315,5,Samsung Camera 315,Samsung,1618.49,1356.87,178
+316,19,Microsoft Gaming Console 316,Microsoft,2361.55,1872.32,248
+317,10,Logitech Smartphone 317,Logitech,2501.94,1568.08,256
+318,14,Adidas Backpack 318,Adidas,1219.31,675.97,459
+319,9,Dell Headphones 319,Dell,1891.65,1023.66,99
+320,8,Lenovo Television 320,Lenovo,655.95,496.96,402
+321,15,LG Keyboard 321,LG,25.61,12.97,52
+322,19,Lenovo Smartphone 322,Lenovo,2991.33,1961.13,366
+323,16,Canon Chair 323,Canon,2014.93,1352.42,414
+324,8,Sony Gaming Console 324,Sony,2923.1,1588.91,178
+325,19,Nike Monitor 325,Nike,1033.34,531.77,364
+326,10,Nike Smartphone 326,Nike,1131.13,869.05,18
+327,1,Apple Laptop 327,Apple,589.07,464.56,51
+328,15,Samsung Desk 328,Samsung,1056.85,779.14,337
+329,4,Microsoft Smart Watch 329,Microsoft,1326.22,679.48,196
+330,9,Microsoft Gaming Console 330,Microsoft,1732.38,1162.61,221
+331,6,LG Smartphone 331,LG,2833.59,1726.82,348
+332,5,Bose Chair 332,Bose,347.33,270.69,296
+333,8,LG Printer 333,LG,2000.46,1539.81,472
+334,15,LG Chair 334,LG,1217.38,715.21,101
+335,16,Sony Chair 335,Sony,2999.57,1886.14,344
+336,17,Dell Smart Watch 336,Dell,1791.15,924.08,29
+337,5,HP Smartphone 337,HP,1611.26,926.54,398
+338,8,Microsoft Monitor 338,Microsoft,2406.52,1894.16,385
+339,1,Lenovo Smart Watch 339,Lenovo,241.74,136.91,309
+340,6,LG Monitor 340,LG,1487.65,905.11,314
+341,13,Canon Smart Watch 341,Canon,2556.18,2103.76,160
+342,19,Canon Smartphone 342,Canon,1253.86,964.24,452
+343,9,Logitech Chair 343,Logitech,1570.08,797.32,360
+344,1,HP Gaming Console 344,HP,1999.3,1639.35,344
+345,12,Dell Camera 345,Dell,2327.05,1519.41,186
+346,13,Sony Desk 346,Sony,2476.6,1683.55,498
+347,6,Canon Backpack 347,Canon,2846.78,2090.35,121
+348,16,Bose Chair 348,Bose,2433.14,2022.16,362
+349,3,LG Camera 349,LG,441.64,299.12,390
+350,14,Logitech Tablet 350,Logitech,2818.14,1511.34,414
+351,5,Lenovo Smartphone 351,Lenovo,2871.6,2236.6,85
+352,6,Apple Smartphone 352,Apple,980.37,544.77,193
+353,19,Dell Chair 353,Dell,1477.91,1071.0,290
+354,11,Bose Chair 354,Bose,2433.84,1953.89,201
+355,11,LG Keyboard 355,LG,1365.48,808.96,322
+356,12,Sony Desk 356,Sony,2106.2,1186.43,351
+357,9,Bose Smartphone 357,Bose,873.5,460.11,266
+358,18,Apple Mouse 358,Apple,2003.88,1538.14,356
+359,7,Logitech Laptop 359,Logitech,1158.5,761.77,261
+360,11,Logitech Television 360,Logitech,450.27,257.61,422
+361,18,Canon Desk 361,Canon,318.8,225.58,227
+362,14,Lenovo Chair 362,Lenovo,1548.71,1197.33,274
+363,16,Dell Tablet 363,Dell,2818.52,1665.91,343
+364,1,HP Monitor 364,HP,2839.43,1679.13,267
+365,8,Apple Smartphone 365,Apple,984.46,828.1,460
+366,6,Samsung Headphones 366,Samsung,1339.89,923.98,466
+367,7,Lenovo Headphones 367,Lenovo,24.83,16.6,398
+368,15,LG Laptop 368,LG,2725.65,1406.91,293
+369,16,Nike Chair 369,Nike,1317.76,1106.87,121
+370,13,LG Smart Watch 370,LG,450.26,320.27,1
+371,16,Apple Tablet 371,Apple,2073.35,1084.34,213
+372,16,Adidas Desk 372,Adidas,458.9,274.73,268
+373,13,LG Camera 373,LG,1691.52,1234.59,52
+374,19,Dell Television 374,Dell,682.66,395.37,423
+375,13,Lenovo Headphones 375,Lenovo,2537.95,1850.21,407
+376,20,Apple Printer 376,Apple,1299.61,785.59,301
+377,13,HP Chair 377,HP,130.27,97.87,350
+378,20,Bose Keyboard 378,Bose,2051.56,1303.59,466
+379,19,Nike Chair 379,Nike,118.91,82.95,363
+380,1,Apple Television 380,Apple,703.81,384.1,416
+381,20,Canon Smartphone 381,Canon,1362.87,706.75,282
+382,12,Dell Camera 382,Dell,1684.79,901.27,203
+383,19,Dell Keyboard 383,Dell,1185.95,989.16,236
+384,4,HP Printer 384,HP,2882.96,2372.09,34
+385,13,LG Tablet 385,LG,2191.3,1694.61,174
+386,1,Bose Gaming Console 386,Bose,438.98,236.86,292
+387,1,Lenovo Chair 387,Lenovo,1660.2,1126.47,187
+388,17,HP Printer 388,HP,51.18,41.08,475
+389,7,Adidas Chair 389,Adidas,2322.65,1460.53,118
+390,10,Samsung Smartphone 390,Samsung,592.53,470.3,327
+391,14,Apple Mouse 391,Apple,1099.02,641.56,411
+392,16,HP Printer 392,HP,948.27,778.91,193
+393,12,Lenovo Smartphone 393,Lenovo,383.91,309.67,376
+394,2,Adidas Backpack 394,Adidas,2723.89,2091.42,77
+395,8,Logitech Camera 395,Logitech,584.41,409.07,188
+396,19,HP Backpack 396,HP,2125.47,1483.99,6
+397,11,Nike Smartphone 397,Nike,2427.92,1946.74,232
+398,16,Samsung Monitor 398,Samsung,262.71,176.04,13
+399,12,Microsoft Backpack 399,Microsoft,1244.2,818.89,29
+400,10,LG Gaming Console 400,LG,239.67,141.11,477
+401,1,Bose Camera 401,Bose,1003.28,839.86,129
+402,8,HP Mouse 402,HP,2287.08,1648.8,302
+403,8,Adidas Chair 403,Adidas,1355.69,942.9,59
+404,15,Logitech Desk 404,Logitech,2296.61,1472.81,237
+405,14,Lenovo Monitor 405,Lenovo,2575.97,1296.45,143
+406,11,Microsoft Backpack 406,Microsoft,2826.39,2062.19,365
+407,15,Apple Desk 407,Apple,2035.44,1493.82,119
+408,16,Lenovo Tablet 408,Lenovo,2285.71,1178.54,115
+409,19,Nike Gaming Console 409,Nike,2377.91,1811.84,369
+410,11,Sony Keyboard 410,Sony,2738.98,2312.44,458
+411,4,Adidas Backpack 411,Adidas,2342.86,1419.23,143
+412,2,Bose Gaming Console 412,Bose,1768.21,1317.88,224
+413,7,Samsung Headphones 413,Samsung,2534.22,1747.32,176
+414,11,Microsoft Smart Watch 414,Microsoft,2538.47,1413.34,26
+415,19,Lenovo Gaming Console 415,Lenovo,2675.18,1674.55,296
+416,16,Nike Laptop 416,Nike,1252.4,677.65,55
+417,19,Lenovo Mouse 417,Lenovo,1428.52,867.59,230
+418,12,Bose Printer 418,Bose,1266.62,837.83,262
+419,15,Lenovo Monitor 419,Lenovo,472.07,300.04,295
+420,17,Bose Laptop 420,Bose,1026.8,852.39,348
+421,7,LG Television 421,LG,1748.31,1246.72,132
+422,17,LG Desk 422,LG,2577.65,1957.92,5
+423,13,Logitech Backpack 423,Logitech,2176.22,1643.31,93
+424,14,Bose Headphones 424,Bose,221.68,151.14,476
+425,18,Nike Smart Watch 425,Nike,1439.55,1034.57,441
+426,15,Logitech Chair 426,Logitech,1328.32,838.31,20
+427,7,LG Tablet 427,LG,1717.12,1395.29,208
+428,8,Bose Gaming Console 428,Bose,1501.07,1060.12,450
+429,15,Bose Smart Watch 429,Bose,227.88,176.58,28
+430,8,LG Printer 430,LG,2965.3,1610.52,283
+431,6,Logitech Camera 431,Logitech,578.55,449.85,208
+432,6,Bose Television 432,Bose,876.51,488.56,98
+433,8,HP Printer 433,HP,174.62,96.06,315
+434,9,Canon Desk 434,Canon,854.17,433.83,205
+435,1,Lenovo Printer 435,Lenovo,2506.87,2088.67,193
+436,8,Logitech Mouse 436,Logitech,2046.55,1024.93,313
+437,5,Sony Headphones 437,Sony,588.37,384.31,450
+438,5,HP Mouse 438,HP,1804.38,959.25,258
+439,16,Lenovo Headphones 439,Lenovo,2151.9,1112.52,402
+440,9,Adidas Keyboard 440,Adidas,1602.57,1265.73,172
+441,16,Microsoft Smartphone 441,Microsoft,2344.02,1451.48,54
+442,17,Lenovo Mouse 442,Lenovo,2354.24,1388.0,185
+443,5,LG Smart Watch 443,LG,1597.63,802.43,126
+444,10,Nike Laptop 444,Nike,2912.46,1828.46,409
+445,18,Logitech Camera 445,Logitech,2581.73,2150.37,281
+446,15,HP Laptop 446,HP,1642.18,836.85,92
+447,19,Apple Backpack 447,Apple,2853.85,1595.51,127
+448,16,Sony Gaming Console 448,Sony,121.86,99.29,318
+449,18,Bose Printer 449,Bose,1215.83,784.39,106
+450,19,Adidas Printer 450,Adidas,1992.26,1372.63,241
+451,16,Bose Monitor 451,Bose,495.25,401.12,254
+452,3,Sony Printer 452,Sony,769.76,427.31,158
+453,14,Logitech Backpack 453,Logitech,537.57,422.58,242
+454,19,HP Laptop 454,HP,1189.06,719.55,218
+455,7,Nike Laptop 455,Nike,2285.52,1576.24,259
+456,1,Adidas Tablet 456,Adidas,77.77,41.02,21
+457,16,Dell Laptop 457,Dell,950.41,702.99,76
+458,6,Canon Smartphone 458,Canon,2197.26,1603.19,1
+459,16,LG Smartphone 459,LG,1095.34,688.2,139
+460,9,Canon Desk 460,Canon,1598.89,1146.13,337
+461,3,Dell Headphones 461,Dell,185.55,150.45,207
+462,15,Sony Smartphone 462,Sony,972.22,737.82,399
+463,6,Lenovo Keyboard 463,Lenovo,1229.15,907.35,229
+464,6,Samsung Headphones 464,Samsung,2479.21,1439.02,369
+465,16,Adidas Gaming Console 465,Adidas,1612.97,1239.49,149
+466,7,Nike Camera 466,Nike,620.96,434.98,190
+467,5,Adidas Headphones 467,Adidas,2708.22,2007.0,110
+468,1,Sony Keyboard 468,Sony,1290.21,1004.39,442
+469,15,Nike Headphones 469,Nike,2933.91,1624.61,68
+470,3,Canon Camera 470,Canon,818.32,599.24,175
+471,4,Samsung Mouse 471,Samsung,1870.46,1236.57,48
+472,4,Logitech Smart Watch 472,Logitech,1705.18,1148.82,433
+473,5,Dell Printer 473,Dell,102.57,55.92,37
+474,2,Canon Gaming Console 474,Canon,375.09,261.37,281
+475,12,Nike Printer 475,Nike,396.46,229.71,76
+476,1,Bose Monitor 476,Bose,2497.4,1751.61,435
+477,16,Apple Backpack 477,Apple,1764.76,1194.62,303
+478,11,Sony Mouse 478,Sony,1615.87,1338.37,465
+479,4,Logitech Printer 479,Logitech,250.43,199.04,410
+480,15,Bose Laptop 480,Bose,268.18,190.55,498
+481,15,Apple Gaming Console 481,Apple,1016.06,841.01,154
+482,10,HP Smart Watch 482,HP,2745.93,1660.35,415
+483,19,Apple Printer 483,Apple,1247.9,792.31,177
+484,17,Lenovo Tablet 484,Lenovo,2778.51,1620.45,35
+485,19,Canon Smart Watch 485,Canon,2858.36,2397.44,468
+486,15,Bose Gaming Console 486,Bose,722.19,594.65,222
+487,15,HP Keyboard 487,HP,1450.45,1172.91,132
+488,10,Microsoft Keyboard 488,Microsoft,608.71,492.55,440
+489,15,LG Desk 489,LG,1566.3,873.49,498
+490,12,Canon Chair 490,Canon,1440.13,890.21,207
+491,10,Samsung Television 491,Samsung,683.95,466.1,346
+492,6,HP Chair 492,HP,1847.88,1293.47,390
+493,9,Dell Keyboard 493,Dell,2785.73,2023.96,328
+494,10,Logitech Laptop 494,Logitech,1423.28,1142.11,492
+495,1,Apple Printer 495,Apple,2168.57,1515.11,4
+496,14,Dell Headphones 496,Dell,2103.03,1406.98,244
+497,10,Canon Chair 497,Canon,2639.36,1694.29,355
+498,5,Samsung Backpack 498,Samsung,395.15,233.77,78
+499,8,Bose Printer 499,Bose,1249.52,886.98,27
+500,3,Samsung Television 500,Samsung,2159.14,1282.42,425
+501,4,Canon Smartphone 501,Canon,2042.73,1127.4,123
+502,4,Lenovo Headphones 502,Lenovo,2261.38,1276.6,93
+503,3,Microsoft Headphones 503,Microsoft,790.7,661.03,168
+504,1,Dell Keyboard 504,Dell,2638.83,1905.1,267
+505,20,Adidas Printer 505,Adidas,2395.61,1380.11,168
+506,9,Adidas Printer 506,Adidas,1356.16,823.41,80
+507,8,Sony Chair 507,Sony,2505.51,2097.09,331
+508,20,Bose Smart Watch 508,Bose,1263.42,815.42,355
+509,16,Microsoft Monitor 509,Microsoft,2395.81,1267.02,180
+510,1,Dell Backpack 510,Dell,2373.14,1324.59,393
+511,10,Samsung Mouse 511,Samsung,1405.62,1086.24,206
+512,2,Microsoft Laptop 512,Microsoft,2164.71,1190.89,288
+513,2,Nike Keyboard 513,Nike,2115.45,1528.74,221
+514,14,Dell Keyboard 514,Dell,221.31,175.78,159
+515,15,Sony Gaming Console 515,Sony,1519.65,892.49,377
+516,11,Lenovo Backpack 516,Lenovo,794.23,657.96,365
+517,6,Microsoft Smart Watch 517,Microsoft,1931.07,1049.98,317
+518,5,Nike Headphones 518,Nike,2177.87,1660.57,376
+519,12,Microsoft Monitor 519,Microsoft,2438.05,1447.41,292
+520,7,Microsoft Headphones 520,Microsoft,931.22,540.96,294
+521,1,Logitech Chair 521,Logitech,845.99,675.76,378
+522,19,Dell Mouse 522,Dell,2598.08,2018.49,352
+523,17,HP Smart Watch 523,HP,1417.05,1052.68,171
+524,8,HP Backpack 524,HP,2485.16,1961.04,50
+525,8,HP Mouse 525,HP,78.69,52.6,141
+526,7,Apple Keyboard 526,Apple,170.41,144.0,216
+527,6,Samsung Keyboard 527,Samsung,474.53,363.18,477
+528,19,Dell Smart Watch 528,Dell,1625.43,921.31,419
+529,2,Apple Backpack 529,Apple,740.35,460.05,165
+530,13,Apple Mouse 530,Apple,163.63,96.05,67
+531,1,Sony Mouse 531,Sony,1472.67,782.61,484
+532,18,Logitech Keyboard 532,Logitech,2580.41,1339.1,300
+533,2,Logitech Desk 533,Logitech,834.68,461.84,331
+534,10,Microsoft Smartphone 534,Microsoft,2839.98,1810.9,36
+535,20,Dell Smartphone 535,Dell,485.68,381.04,438
+536,11,Bose Smart Watch 536,Bose,713.06,556.38,18
+537,17,Canon Desk 537,Canon,244.6,130.1,127
+538,12,Canon Monitor 538,Canon,2712.19,1687.67,380
+539,10,Microsoft Smartphone 539,Microsoft,1841.5,1084.41,390
+540,16,Sony Chair 540,Sony,348.02,258.3,439
+541,12,LG Headphones 541,LG,1498.61,812.92,477
+542,8,Lenovo Tablet 542,Lenovo,537.56,365.66,332
+543,14,Canon Smartphone 543,Canon,753.17,597.99,220
+544,14,Adidas Television 544,Adidas,419.7,335.02,343
+545,12,Dell Mouse 545,Dell,2677.5,2009.84,121
+546,1,Sony Smartphone 546,Sony,2624.52,1312.97,223
+547,2,Logitech Camera 547,Logitech,881.7,457.74,310
+548,13,Microsoft Headphones 548,Microsoft,1512.91,946.29,333
+549,15,HP Television 549,HP,1392.53,733.96,97
+550,14,Bose Gaming Console 550,Bose,91.46,75.6,21
+551,19,Bose Keyboard 551,Bose,133.07,68.59,469
+552,14,Microsoft Monitor 552,Microsoft,2203.55,1757.01,375
+553,5,Apple Camera 553,Apple,1467.06,997.17,256
+554,18,LG Backpack 554,LG,1789.81,918.88,409
+555,4,LG Smartphone 555,LG,1169.9,684.48,267
+556,17,Adidas Smartphone 556,Adidas,1429.93,983.05,180
+557,12,Logitech Mouse 557,Logitech,2799.14,2311.63,23
+558,2,Adidas Chair 558,Adidas,1989.3,1260.49,204
+559,18,Samsung Camera 559,Samsung,2280.82,1443.91,90
+560,1,Samsung Tablet 560,Samsung,1447.92,803.06,249
+561,18,Nike Keyboard 561,Nike,354.53,260.25,442
+562,5,Lenovo Headphones 562,Lenovo,1904.18,1257.4,180
+563,1,Bose Gaming Console 563,Bose,1409.01,814.61,370
+564,1,Microsoft Headphones 564,Microsoft,2879.09,1663.19,393
+565,15,Logitech Printer 565,Logitech,2857.85,1949.48,306
+566,19,Microsoft Keyboard 566,Microsoft,1126.26,816.02,177
+567,18,LG Keyboard 567,LG,629.17,416.2,40
+568,16,Adidas Headphones 568,Adidas,805.04,412.47,222
+569,17,Adidas Desk 569,Adidas,2175.19,1429.76,35
+570,11,Lenovo Headphones 570,Lenovo,2293.33,1863.62,43
+571,12,Sony Chair 571,Sony,1304.7,812.68,311
+572,13,Apple Chair 572,Apple,637.54,386.53,474
+573,17,Microsoft Monitor 573,Microsoft,165.47,118.98,224
+574,5,Sony Camera 574,Sony,68.45,35.0,178
+575,14,Nike Chair 575,Nike,1007.2,782.45,122
+576,16,Apple Monitor 576,Apple,1456.69,851.7,346
+577,13,Bose Printer 577,Bose,1495.48,1039.39,55
+578,6,Nike Camera 578,Nike,2522.15,1356.17,144
+579,5,Samsung Television 579,Samsung,57.59,30.88,134
+580,5,Sony Mouse 580,Sony,2862.73,2388.54,148
+581,1,Samsung Printer 581,Samsung,1981.39,1681.95,151
+582,17,Microsoft Printer 582,Microsoft,2980.71,2241.41,340
+583,18,Logitech Headphones 583,Logitech,2531.93,1769.34,253
+584,15,LG Keyboard 584,LG,725.97,492.57,69
+585,4,Bose Chair 585,Bose,1187.35,599.16,408
+586,10,Samsung Laptop 586,Samsung,761.22,439.16,343
+587,1,Microsoft Tablet 587,Microsoft,1749.18,1052.77,160
+588,10,Canon Smart Watch 588,Canon,1863.01,1078.89,9
+589,9,LG Television 589,LG,336.94,285.41,289
+590,11,Adidas Tablet 590,Adidas,2971.3,1915.48,198
+591,20,Microsoft Camera 591,Microsoft,1499.66,852.0,51
+592,13,Sony Chair 592,Sony,487.15,301.0,231
+593,13,Dell Laptop 593,Dell,185.95,103.77,127
+594,8,Canon Headphones 594,Canon,2691.99,1616.38,190
+595,15,Dell Smartphone 595,Dell,1365.79,1088.26,488
+596,12,Samsung Gaming Console 596,Samsung,254.86,160.34,288
+597,9,Bose Tablet 597,Bose,324.82,221.14,322
+598,17,LG Headphones 598,LG,2650.03,1336.12,35
+599,14,Dell Desk 599,Dell,149.46,103.1,58
+600,7,Bose Keyboard 600,Bose,1745.76,1170.93,283
+601,9,LG Camera 601,LG,1468.02,1049.6,298
+602,7,Microsoft Headphones 602,Microsoft,1260.53,774.26,242
+603,11,Lenovo Desk 603,Lenovo,2490.8,1951.82,438
+604,10,Lenovo Chair 604,Lenovo,922.73,466.15,81
+605,18,HP Headphones 605,HP,464.54,319.53,428
+606,3,Lenovo Smartphone 606,Lenovo,748.06,494.86,236
+607,12,Apple Desk 607,Apple,143.83,119.39,428
+608,18,Logitech Headphones 608,Logitech,114.07,63.12,347
+609,19,Microsoft Smartphone 609,Microsoft,2440.28,2005.98,403
+610,8,Samsung Smartphone 610,Samsung,2015.22,1295.92,196
+611,9,Adidas Desk 611,Adidas,1373.52,1062.94,47
+612,19,Microsoft Desk 612,Microsoft,2503.27,1360.4,52
+613,20,Logitech Headphones 613,Logitech,393.08,239.92,485
+614,20,Adidas Headphones 614,Adidas,446.18,270.53,248
+615,18,HP Laptop 615,HP,2013.86,1155.95,32
+616,9,Adidas Smartphone 616,Adidas,253.91,135.24,386
+617,4,Logitech Camera 617,Logitech,350.38,280.39,437
+618,4,Apple Backpack 618,Apple,949.91,790.39,175
+619,8,Microsoft Desk 619,Microsoft,486.59,351.64,227
+620,1,LG Mouse 620,LG,942.96,620.14,257
+621,1,LG Chair 621,LG,1726.12,1029.13,24
+622,15,Adidas Smart Watch 622,Adidas,318.26,232.71,257
+623,7,Bose Chair 623,Bose,226.24,128.79,134
+624,12,Dell Smart Watch 624,Dell,2293.52,1459.61,161
+625,5,Lenovo Printer 625,Lenovo,1384.02,1012.39,241
+626,2,Nike Monitor 626,Nike,1375.88,816.87,113
+627,9,Adidas Backpack 627,Adidas,789.65,568.22,314
+628,15,Apple Printer 628,Apple,31.06,25.78,126
+629,8,Apple Keyboard 629,Apple,1191.69,1000.29,314
+630,6,Samsung Smartphone 630,Samsung,2451.14,1572.61,153
+631,13,Nike Chair 631,Nike,70.43,39.35,388
+632,12,Samsung Camera 632,Samsung,716.55,374.67,330
+633,12,Logitech Smartphone 633,Logitech,1476.95,1228.5,123
+634,2,Logitech Headphones 634,Logitech,262.02,222.39,308
+635,11,HP Mouse 635,HP,900.06,697.89,84
+636,13,Lenovo Laptop 636,Lenovo,131.61,108.69,10
+637,15,Lenovo Printer 637,Lenovo,885.97,604.56,237
+638,18,Adidas Desk 638,Adidas,1148.14,829.48,298
+639,19,Samsung Smart Watch 639,Samsung,829.44,487.97,35
+640,8,Nike Backpack 640,Nike,1227.76,659.65,27
+641,15,HP Chair 641,HP,31.71,16.65,248
+642,16,Bose Monitor 642,Bose,953.33,779.45,304
+643,7,Apple Camera 643,Apple,2451.3,2027.18,227
+644,4,Canon Printer 644,Canon,2796.1,1470.36,54
+645,14,Samsung Printer 645,Samsung,2499.8,2118.44,142
+646,6,Bose Smartphone 646,Bose,2767.3,1643.27,150
+647,12,HP Keyboard 647,HP,1015.88,718.4,229
+648,8,Microsoft Television 648,Microsoft,715.21,523.31,155
+649,14,HP Tablet 649,HP,2955.08,2434.89,191
+650,19,HP Laptop 650,HP,2957.2,1975.46,348
+651,8,Bose Backpack 651,Bose,1093.38,893.73,448
+652,2,Dell Printer 652,Dell,947.13,703.87,299
+653,13,LG Gaming Console 653,LG,1886.99,1590.7,109
+654,4,Nike Desk 654,Nike,2872.59,2053.04,331
+655,8,Lenovo Printer 655,Lenovo,329.22,216.97,492
+656,14,Canon Smart Watch 656,Canon,2089.52,1157.95,259
+657,5,Adidas Chair 657,Adidas,2788.7,1585.73,382
+658,12,HP Television 658,HP,2540.48,1604.67,168
+659,20,Adidas Headphones 659,Adidas,477.23,318.65,415
+660,15,HP Backpack 660,HP,1998.07,1181.4,40
+661,9,Nike Chair 661,Nike,1737.99,1350.18,458
+662,20,Sony Laptop 662,Sony,1183.74,980.17,220
+663,12,Sony Monitor 663,Sony,1686.46,903.0,446
+664,15,LG Smartphone 664,LG,1830.42,991.09,367
+665,5,Adidas Printer 665,Adidas,1030.22,656.89,415
+666,20,LG Keyboard 666,LG,580.17,468.15,384
+667,10,Microsoft Gaming Console 667,Microsoft,1213.92,955.19,273
+668,15,Logitech Television 668,Logitech,66.42,55.03,339
+669,11,Microsoft Monitor 669,Microsoft,1094.65,549.2,447
+670,8,Apple Desk 670,Apple,766.6,418.8,356
+671,18,Dell Printer 671,Dell,2956.98,1889.91,382
+672,12,Samsung Television 672,Samsung,980.02,697.3,436
+673,11,Samsung Laptop 673,Samsung,91.08,74.99,199
+674,2,Apple Desk 674,Apple,2007.09,1554.13,407
+675,2,Apple Headphones 675,Apple,267.83,164.54,37
+676,19,Bose Keyboard 676,Bose,1389.83,968.22,403
+677,20,HP Smartphone 677,HP,1887.86,998.05,485
+678,1,Logitech Tablet 678,Logitech,159.7,121.2,262
+679,7,Microsoft Headphones 679,Microsoft,1601.95,970.84,497
+680,20,Canon Backpack 680,Canon,172.68,127.46,486
+681,18,HP Television 681,HP,2561.04,1709.05,100
+682,3,Nike Smartphone 682,Nike,202.86,148.67,270
+683,15,Sony Desk 683,Sony,2847.09,1667.69,211
+684,11,Apple Tablet 684,Apple,2179.43,1143.27,70
+685,17,HP Headphones 685,HP,1649.91,1332.43,10
+686,3,Apple Keyboard 686,Apple,1588.28,1341.17,420
+687,16,HP Gaming Console 687,HP,1165.53,843.06,321
+688,1,Canon Smartphone 688,Canon,483.51,311.72,391
+689,14,Logitech Mouse 689,Logitech,1830.5,1186.61,96
+690,20,Lenovo Headphones 690,Lenovo,1781.34,1148.68,236
+691,1,Logitech Printer 691,Logitech,2513.07,1386.13,400
+692,3,Sony Tablet 692,Sony,2144.79,1623.52,337
+693,5,Logitech Backpack 693,Logitech,2369.41,1627.27,453
+694,13,Microsoft Headphones 694,Microsoft,2419.03,1981.25,89
+695,8,Microsoft Printer 695,Microsoft,1394.06,823.91,433
+696,11,Dell Mouse 696,Dell,2540.07,1417.09,95
+697,20,Adidas Television 697,Adidas,1255.13,740.58,154
+698,9,Logitech Gaming Console 698,Logitech,2285.16,1341.18,471
+699,14,Apple Camera 699,Apple,2304.9,1741.07,222
+700,4,Samsung Monitor 700,Samsung,241.67,187.08,113
+701,14,Sony Laptop 701,Sony,787.36,560.4,266
+702,18,Canon Mouse 702,Canon,1509.05,799.51,170
+703,12,Bose Laptop 703,Bose,1789.62,1308.17,355
+704,13,Nike Camera 704,Nike,2101.83,1173.69,246
+705,20,Canon Smartphone 705,Canon,175.35,144.28,295
+706,5,HP Headphones 706,HP,67.12,50.7,488
+707,15,LG Gaming Console 707,LG,521.53,336.05,453
+708,13,Adidas Mouse 708,Adidas,2180.04,1255.11,97
+709,10,Sony Printer 709,Sony,235.93,183.72,89
+710,12,Nike Smart Watch 710,Nike,1980.52,1398.85,487
+711,8,HP Printer 711,HP,2170.02,1821.86,407
+712,20,Sony Printer 712,Sony,2495.12,2100.54,436
+713,12,Lenovo Tablet 713,Lenovo,221.0,184.89,417
+714,15,Logitech Smart Watch 714,Logitech,822.91,436.03,32
+715,7,HP Laptop 715,HP,2963.16,2480.49,233
+716,17,Nike Television 716,Nike,1288.58,1077.84,201
+717,14,Lenovo Camera 717,Lenovo,330.14,183.59,485
+718,6,Samsung Camera 718,Samsung,631.75,322.65,7
+719,12,Canon Camera 719,Canon,1205.81,708.09,380
+720,5,Adidas Television 720,Adidas,1742.55,972.6,129
+721,5,Dell Desk 721,Dell,1543.6,892.37,465
+722,4,Adidas Camera 722,Adidas,137.16,91.22,366
+723,7,LG Gaming Console 723,LG,268.01,193.73,117
+724,12,Dell Tablet 724,Dell,2292.24,1379.27,178
+725,1,Samsung Smart Watch 725,Samsung,1426.37,716.47,315
+726,18,Logitech Desk 726,Logitech,898.88,620.83,129
+727,3,Canon Printer 727,Canon,1321.82,992.38,250
+728,14,Apple Mouse 728,Apple,2290.86,1313.28,202
+729,6,Apple Mouse 729,Apple,1881.62,1422.0,180
+730,1,Adidas Laptop 730,Adidas,74.59,46.78,41
+731,4,Canon Keyboard 731,Canon,1862.96,1380.5,393
+732,5,Samsung Gaming Console 732,Samsung,403.89,325.94,106
+733,1,Dell Tablet 733,Dell,645.22,325.03,231
+734,8,HP Camera 734,HP,980.27,542.81,334
+735,1,Dell Television 735,Dell,2122.06,1202.44,139
+736,9,Microsoft Monitor 736,Microsoft,608.52,401.57,413
+737,4,Adidas Desk 737,Adidas,2942.22,2261.48,72
+738,1,LG Gaming Console 738,LG,2596.12,1399.7,212
+739,8,Microsoft Headphones 739,Microsoft,389.42,309.23,401
+740,13,Samsung Keyboard 740,Samsung,2511.72,1670.13,346
+741,8,Lenovo Keyboard 741,Lenovo,634.9,317.77,191
+742,3,Lenovo Headphones 742,Lenovo,2829.74,1800.67,223
+743,19,Lenovo Keyboard 743,Lenovo,1403.64,716.87,279
+744,11,Apple Television 744,Apple,1665.91,891.18,373
+745,16,Canon Headphones 745,Canon,1233.51,678.36,484
+746,6,Apple Smartphone 746,Apple,1556.86,1097.93,151
+747,12,Bose Printer 747,Bose,38.09,29.95,334
+748,14,Canon Smartphone 748,Canon,1853.52,1561.37,212
+749,7,Sony Mouse 749,Sony,384.06,304.47,362
+750,6,Bose Television 750,Bose,2100.43,1562.11,68
+751,18,HP Camera 751,HP,2807.64,1722.58,428
+752,15,Lenovo Mouse 752,Lenovo,1950.81,1409.63,120
+753,2,LG Smart Watch 753,LG,2864.85,2285.55,156
+754,6,Microsoft Monitor 754,Microsoft,2816.49,2143.78,346
+755,12,Sony Backpack 755,Sony,159.23,85.55,59
+756,6,Dell Headphones 756,Dell,2454.87,1501.81,351
+757,15,LG Tablet 757,LG,1347.06,929.68,275
+758,2,Microsoft Camera 758,Microsoft,678.73,572.92,141
+759,1,Bose Mouse 759,Bose,2908.72,1474.59,465
+760,18,Microsoft Chair 760,Microsoft,2674.86,1812.55,361
+761,16,Lenovo Chair 761,Lenovo,370.84,255.97,34
+762,5,Canon Mouse 762,Canon,550.71,466.49,112
+763,11,Sony Gaming Console 763,Sony,2879.68,2214.07,338
+764,20,Sony Chair 764,Sony,2640.26,1361.89,377
+765,19,Microsoft Printer 765,Microsoft,1232.16,754.59,253
+766,3,Bose Printer 766,Bose,338.78,191.73,229
+767,18,Nike Mouse 767,Nike,686.03,513.17,388
+768,14,Bose Mouse 768,Bose,2915.27,1908.78,128
+769,4,Sony Printer 769,Sony,281.53,179.1,281
+770,17,Bose Chair 770,Bose,1719.91,1408.69,19
+771,4,Dell Tablet 771,Dell,2637.02,1927.01,493
+772,4,Microsoft Camera 772,Microsoft,2334.23,1331.67,363
+773,13,Nike Keyboard 773,Nike,201.15,165.02,100
+774,14,Logitech Camera 774,Logitech,2048.66,1074.77,343
+775,19,Samsung Monitor 775,Samsung,2666.6,1880.88,369
+776,16,Canon Smartphone 776,Canon,856.67,698.94,379
+777,8,Nike Television 777,Nike,2196.96,1538.5,386
+778,19,Apple Smart Watch 778,Apple,2653.89,2112.43,64
+779,11,HP Chair 779,HP,2093.88,1732.19,467
+780,7,Adidas Backpack 780,Adidas,1572.19,1053.39,276
+781,12,Logitech Gaming Console 781,Logitech,2649.89,1459.92,187
+782,18,Apple Television 782,Apple,2585.13,1755.91,262
+783,18,Nike Printer 783,Nike,2323.44,1371.69,120
+784,13,Microsoft Backpack 784,Microsoft,2096.1,1085.58,465
+785,1,Lenovo Printer 785,Lenovo,1942.25,1290.8,254
+786,20,Logitech Gaming Console 786,Logitech,1755.53,1253.63,400
+787,10,Logitech Backpack 787,Logitech,2349.86,1432.06,350
+788,9,Samsung Desk 788,Samsung,2611.25,1588.68,56
+789,15,LG Gaming Console 789,LG,1220.92,997.45,87
+790,5,Logitech Keyboard 790,Logitech,1169.09,900.1,175
+791,8,Apple Printer 791,Apple,907.2,597.1,181
+792,13,Sony Monitor 792,Sony,112.36,87.65,132
+793,19,Adidas Printer 793,Adidas,1963.73,1336.1,471
+794,11,Canon Printer 794,Canon,2865.32,2071.31,441
+795,2,LG Printer 795,LG,1396.94,994.75,400
+796,12,HP Chair 796,HP,1528.72,932.49,259
+797,16,Apple Camera 797,Apple,1003.0,735.3,408
+798,13,Lenovo Monitor 798,Lenovo,1441.31,876.75,421
+799,2,Nike Laptop 799,Nike,1476.64,1232.01,107
+800,4,Apple Headphones 800,Apple,2422.98,1924.01,238
+801,7,Nike Laptop 801,Nike,962.58,489.89,320
+802,17,HP Tablet 802,HP,1613.11,1025.56,80
+803,7,HP Laptop 803,HP,2152.18,1453.51,144
+804,7,Adidas Tablet 804,Adidas,1238.22,873.88,174
+805,11,Apple Monitor 805,Apple,2052.71,1057.4,95
+806,5,HP Mouse 806,HP,2790.5,2062.69,201
+807,6,Sony Gaming Console 807,Sony,1386.63,845.49,343
+808,4,Canon Printer 808,Canon,868.54,571.21,134
+809,2,Nike Keyboard 809,Nike,581.36,487.76,125
+810,16,Samsung Mouse 810,Samsung,243.01,157.56,313
+811,19,Canon Mouse 811,Canon,744.22,465.08,188
+812,15,Samsung Laptop 812,Samsung,2960.35,1523.59,76
+813,14,Lenovo Headphones 813,Lenovo,358.37,210.73,99
+814,9,Bose Keyboard 814,Bose,2812.31,2186.68,288
+815,16,Adidas Smartphone 815,Adidas,2401.6,1294.23,81
+816,19,Dell Television 816,Dell,762.86,558.36,47
+817,16,LG Desk 817,LG,2037.46,1557.72,7
+818,11,Dell Backpack 818,Dell,108.4,82.08,52
+819,6,HP Television 819,HP,2610.52,2133.38,277
+820,1,Canon Camera 820,Canon,1106.74,668.04,214
+821,12,Sony Mouse 821,Sony,760.03,381.18,131
+822,11,Dell Laptop 822,Dell,2437.61,1508.97,170
+823,14,Nike Smart Watch 823,Nike,652.49,402.25,3
+824,16,Bose Keyboard 824,Bose,2309.12,1644.09,344
+825,7,HP Desk 825,HP,711.62,389.91,209
+826,19,LG Desk 826,LG,2175.06,1134.51,347
+827,2,HP Desk 827,HP,107.11,60.23,379
+828,13,Dell Desk 828,Dell,1705.38,1282.97,419
+829,14,Dell Television 829,Dell,2671.58,1862.04,94
+830,5,Logitech Mouse 830,Logitech,204.97,134.35,485
+831,1,LG Laptop 831,LG,1213.22,801.05,310
+832,15,Logitech Mouse 832,Logitech,90.8,68.32,489
+833,4,HP Desk 833,HP,534.48,277.68,299
+834,9,Nike Printer 834,Nike,941.83,481.85,223
+835,6,Adidas Smartphone 835,Adidas,2738.85,1735.99,372
+836,7,Microsoft Monitor 836,Microsoft,2063.88,1577.25,418
+837,3,Bose Headphones 837,Bose,2227.09,1236.35,470
+838,20,Samsung Monitor 838,Samsung,457.18,228.98,172
+839,16,Samsung Laptop 839,Samsung,273.42,153.3,213
+840,18,Nike Television 840,Nike,395.25,217.73,119
+841,15,Sony Laptop 841,Sony,2250.82,1268.65,399
+842,10,Adidas Camera 842,Adidas,1868.92,1146.49,376
+843,15,Samsung Tablet 843,Samsung,2372.07,1925.49,477
+844,13,Canon Camera 844,Canon,596.68,331.5,338
+845,1,Microsoft Headphones 845,Microsoft,2880.76,2429.34,85
+846,18,LG Gaming Console 846,LG,177.99,107.13,212
+847,12,Lenovo Backpack 847,Lenovo,1519.74,932.23,379
+848,16,Canon Desk 848,Canon,1236.89,984.1,213
+849,1,Nike Keyboard 849,Nike,1947.26,1577.55,486
+850,5,Dell Mouse 850,Dell,2090.43,1233.3,418
+851,12,Lenovo Gaming Console 851,Lenovo,1393.88,917.96,238
+852,16,Nike Laptop 852,Nike,1494.56,1221.28,133
+853,1,Sony Headphones 853,Sony,2435.18,1813.42,139
+854,16,Apple Headphones 854,Apple,1414.95,1091.5,27
+855,5,Dell Smart Watch 855,Dell,2716.55,1846.93,310
+856,18,Microsoft Chair 856,Microsoft,932.82,596.64,31
+857,5,Logitech Headphones 857,Logitech,1547.7,1309.53,457
+858,3,Nike Smartphone 858,Nike,2128.18,1627.12,131
+859,1,Logitech Smartphone 859,Logitech,23.9,13.59,252
+860,17,Canon Gaming Console 860,Canon,2825.69,1445.75,198
+861,13,Canon Smartphone 861,Canon,1637.39,824.76,103
+862,13,Microsoft Desk 862,Microsoft,1146.44,974.26,496
+863,12,HP Camera 863,HP,1915.21,1054.36,298
+864,4,Adidas Tablet 864,Adidas,2642.75,2025.24,134
+865,12,Apple Keyboard 865,Apple,729.9,460.26,351
+866,13,Microsoft Smartphone 866,Microsoft,2379.57,1260.36,309
+867,18,Samsung Smart Watch 867,Samsung,2049.12,1423.44,267
+868,4,Logitech Gaming Console 868,Logitech,1424.42,1057.27,399
+869,13,Samsung Tablet 869,Samsung,1467.98,1195.59,187
+870,16,Nike Laptop 870,Nike,1412.67,757.49,485
+871,10,Microsoft Camera 871,Microsoft,193.48,112.05,217
+872,12,Dell Gaming Console 872,Dell,2201.39,1560.75,231
+873,10,Apple Smartphone 873,Apple,1248.61,916.97,167
+874,2,Logitech Laptop 874,Logitech,2780.59,1945.66,0
+875,16,Sony Gaming Console 875,Sony,171.97,92.37,284
+876,1,Sony Tablet 876,Sony,2185.01,1101.54,24
+877,10,Logitech Backpack 877,Logitech,1704.73,949.9,390
+878,8,Samsung Smartphone 878,Samsung,2115.92,1515.47,16
+879,6,Microsoft Backpack 879,Microsoft,1867.91,1513.0,186
+880,20,Logitech Gaming Console 880,Logitech,1430.65,1040.01,345
+881,11,Microsoft Mouse 881,Microsoft,1927.21,1549.2,216
+882,15,Sony Tablet 882,Sony,2249.53,1325.07,389
+883,5,Canon Chair 883,Canon,1163.06,857.61,315
+884,9,LG Smartphone 884,LG,2013.47,1123.55,144
+885,10,Lenovo Smart Watch 885,Lenovo,356.76,275.6,108
+886,2,Apple Mouse 886,Apple,2824.65,2190.28,435
+887,7,HP Chair 887,HP,730.3,604.76,313
+888,15,Microsoft Gaming Console 888,Microsoft,2372.46,1847.38,202
+889,20,LG Television 889,LG,1352.92,929.12,380
+890,1,Apple Chair 890,Apple,2515.7,1539.81,254
+891,15,Adidas Mouse 891,Adidas,917.51,669.83,409
+892,10,Lenovo Smartphone 892,Lenovo,1853.82,1180.6,260
+893,9,Bose Monitor 893,Bose,1772.93,908.1,29
+894,11,Logitech Laptop 894,Logitech,1519.88,850.86,376
+895,12,Microsoft Printer 895,Microsoft,1343.74,796.75,13
+896,19,Bose Mouse 896,Bose,1682.37,964.31,132
+897,8,Apple Printer 897,Apple,965.67,812.04,377
+898,4,Canon Laptop 898,Canon,2706.06,1438.77,492
+899,17,Lenovo Camera 899,Lenovo,1128.4,837.89,36
+900,14,Logitech Camera 900,Logitech,2038.74,1659.48,312
+901,11,Sony Monitor 901,Sony,1797.43,1413.64,39
+902,19,Logitech Laptop 902,Logitech,1247.91,842.37,107
+903,15,Adidas Gaming Console 903,Adidas,2175.17,1238.75,140
+904,1,Logitech Tablet 904,Logitech,2635.2,1354.39,79
+905,14,Logitech Smart Watch 905,Logitech,808.8,502.39,495
+906,5,Dell Camera 906,Dell,45.78,36.53,151
+907,19,Bose Backpack 907,Bose,1560.78,1263.5,247
+908,18,Bose Smartphone 908,Bose,2596.1,1950.69,72
+909,10,Adidas Gaming Console 909,Adidas,1422.03,1051.0,311
+910,9,Microsoft Tablet 910,Microsoft,1351.63,858.7,150
+911,8,Adidas Gaming Console 911,Adidas,2807.72,2345.69,246
+912,9,Apple Tablet 912,Apple,2052.93,1735.41,450
+913,9,Adidas Mouse 913,Adidas,1300.74,858.88,255
+914,2,Dell Printer 914,Dell,2429.84,1507.59,73
+915,14,Adidas Printer 915,Adidas,1349.12,1119.71,219
+916,17,Nike Camera 916,Nike,1954.18,1288.29,277
+917,16,Nike Keyboard 917,Nike,1005.32,600.75,262
+918,10,Microsoft Smartphone 918,Microsoft,2900.1,1689.19,2
+919,5,LG Monitor 919,LG,2171.69,1527.64,354
+920,1,Canon Tablet 920,Canon,2079.94,1740.69,222
+921,15,HP Printer 921,HP,1011.96,856.99,357
+922,9,Apple Laptop 922,Apple,1143.09,671.24,308
+923,5,Bose Keyboard 923,Bose,2524.08,2005.44,270
+924,10,Logitech Chair 924,Logitech,1445.98,845.67,368
+925,12,LG Mouse 925,LG,1233.23,1014.2,35
+926,18,HP Gaming Console 926,HP,2413.89,1321.93,67
+927,2,LG Television 927,LG,2898.94,2272.73,14
+928,11,HP Mouse 928,HP,1847.6,1259.07,443
+929,4,Logitech Smart Watch 929,Logitech,1148.73,627.16,66
+930,10,Logitech Smart Watch 930,Logitech,738.99,383.17,428
+931,6,Nike Chair 931,Nike,2429.11,1991.28,366
+932,3,Lenovo Keyboard 932,Lenovo,1619.95,1170.43,82
+933,15,Apple Desk 933,Apple,2619.17,1632.4,96
+934,4,Samsung Gaming Console 934,Samsung,407.57,214.7,278
+935,16,Adidas Smart Watch 935,Adidas,1642.7,928.29,462
+936,2,Lenovo Gaming Console 936,Lenovo,2720.39,1756.47,163
+937,12,LG Headphones 937,LG,1875.3,1272.82,262
+938,8,Apple Keyboard 938,Apple,1073.85,659.49,426
+939,17,Logitech Camera 939,Logitech,2791.68,1557.3,437
+940,17,Logitech Tablet 940,Logitech,544.54,298.86,480
+941,17,Sony Laptop 941,Sony,2120.58,1343.24,299
+942,20,Adidas Printer 942,Adidas,832.08,587.67,365
+943,10,Adidas Gaming Console 943,Adidas,543.3,367.01,80
+944,10,HP Laptop 944,HP,1358.04,696.13,78
+945,3,Microsoft Desk 945,Microsoft,2016.15,1600.64,85
+946,18,Canon Chair 946,Canon,1675.35,1368.13,46
+947,6,LG Monitor 947,LG,644.63,358.27,8
+948,13,Nike Chair 948,Nike,1578.4,1330.68,64
+949,16,Canon Camera 949,Canon,1644.52,900.65,483
+950,11,LG Gaming Console 950,LG,574.73,316.34,236
+951,1,Nike Backpack 951,Nike,2172.68,1200.06,258
+952,15,Canon Smartphone 952,Canon,1691.89,1338.13,224
+953,1,HP Desk 953,HP,1231.97,903.09,116
+954,9,Bose Chair 954,Bose,1920.43,1193.42,445
+955,12,HP Tablet 955,HP,1451.41,899.5,217
+956,5,Logitech Smart Watch 956,Logitech,2579.16,2058.12,231
+957,2,Sony Camera 957,Sony,186.69,114.95,173
+958,19,Nike Chair 958,Nike,1420.05,740.29,64
+959,8,Adidas Tablet 959,Adidas,2241.48,1645.73,64
+960,12,Samsung Backpack 960,Samsung,2451.13,1920.55,472
+961,10,Canon Chair 961,Canon,2133.37,1655.56,21
+962,5,Adidas Headphones 962,Adidas,1006.58,622.28,465
+963,20,Bose Printer 963,Bose,2184.81,1627.96,114
+964,15,Lenovo Laptop 964,Lenovo,2679.27,2261.5,332
+965,4,Apple Camera 965,Apple,329.92,220.0,285
+966,12,Lenovo Desk 966,Lenovo,2370.37,1534.73,401
+967,13,Bose Headphones 967,Bose,2610.95,1726.05,270
+968,11,Adidas Keyboard 968,Adidas,1152.74,580.47,493
+969,9,HP Monitor 969,HP,2243.46,1460.34,382
+970,6,Dell Gaming Console 970,Dell,2140.79,1537.64,36
+971,10,Canon Smart Watch 971,Canon,1642.2,1010.94,273
+972,15,Dell Backpack 972,Dell,106.44,77.78,216
+973,8,Microsoft Printer 973,Microsoft,2038.62,1206.09,160
+974,9,LG Smart Watch 974,LG,2877.48,1863.49,16
+975,1,Apple Laptop 975,Apple,1915.82,1356.64,105
+976,5,Microsoft Monitor 976,Microsoft,2833.28,1463.44,440
+977,17,Nike Camera 977,Nike,106.23,57.48,369
+978,3,HP Monitor 978,HP,2604.09,1644.67,278
+979,12,Adidas Backpack 979,Adidas,1284.41,922.97,164
+980,3,Sony Smartphone 980,Sony,133.81,98.45,484
+981,7,Sony Monitor 981,Sony,635.98,380.36,413
+982,13,Nike Smart Watch 982,Nike,1385.98,755.71,335
+983,6,LG Backpack 983,LG,1544.25,1021.19,163
+984,12,Canon Smart Watch 984,Canon,1832.3,1339.44,188
+985,19,Sony Smart Watch 985,Sony,2010.0,1213.11,491
+986,19,Samsung Mouse 986,Samsung,1042.91,729.53,499
+987,11,LG Television 987,LG,986.15,716.92,352
+988,5,Lenovo Smartphone 988,Lenovo,1698.17,1224.45,226
+989,17,Apple Keyboard 989,Apple,1106.36,897.85,429
+990,18,Sony Gaming Console 990,Sony,688.28,427.24,82
+991,5,Bose Tablet 991,Bose,2222.42,1626.77,187
+992,2,Logitech Camera 992,Logitech,2828.36,2299.39,396
+993,17,Sony Television 993,Sony,508.8,389.62,201
+994,4,Apple Tablet 994,Apple,2623.53,1872.13,363
+995,10,Lenovo Gaming Console 995,Lenovo,2500.05,1577.51,151
+996,11,Bose Chair 996,Bose,463.83,362.41,20
+997,5,Lenovo Backpack 997,Lenovo,1431.28,908.86,318
+998,15,Dell Camera 998,Dell,623.39,423.6,396
+999,10,Logitech Mouse 999,Logitech,2854.19,1615.45,373
+1000,8,Canon Tablet 1000,Canon,533.46,441.71,402
