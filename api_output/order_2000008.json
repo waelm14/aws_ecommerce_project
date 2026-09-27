@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "event_id": "2bdfd1ad-8478-49a5-bf6b-71a2791a09d5",
+        "event_type": "ORDER_CREATED",
+        "event_timestamp": "2026-09-22T13:44:22.752313+00:00",
+        "source": "ordering_api"
+    },
+    "order": {
+        "OrderID": 2000008,
+        "CustomerID": 496514,
+        "OrderDate": "2026-09-22",
+        "Status": "Confirmed"
+    },
+    "order_details": [
+        {
+            "OrderDetailID": 5000016,
+            "OrderID": 2000008,
+            "ProductID": 3586,
+            "Quantity": 3,
+            "UnitPrice": 358.68,
+            "Discount": 5.0
+        },
+        {
+            "OrderDetailID": 5000017,
+            "OrderID": 2000008,
+            "ProductID": 3627,
+            "Quantity": 1,
+            "UnitPrice": 131.53,
+            "Discount": 0.0
+        }
+    ],
+    "payment": {
+        "PaymentID": 2000008,
+        "OrderID": 2000008,
+        "PaymentMethod": "Cash on Delivery",
+        "PaymentDate": "2026-09-22",
+        "Amount": 1365.3,
+        "PaymentStatus": "Completed"
+    },
+    "shipment": {
+        "ShipmentID": 500008,
+        "OrderID": 2000008,
+        "ShipperID": 586,
+        "ShipDate": "2026-09-23",
+        "DeliveryDate": "2026-09-25"
+    },
+    "summary": {
+        "subtotal": 1153.77,
+        "discount": 53.8,
+        "tax_rate": 0.14,
+        "tax_amount": 161.53,
+        "shipping_cost": 50.0,
+        "total_amount": 1365.3
+    }
+}

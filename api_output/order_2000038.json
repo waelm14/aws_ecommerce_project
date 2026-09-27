@@ -1,0 +1,47 @@
+{
+    "metadata": {
+        "event_id": "1bbcf8f1-6922-49b4-a2a6-f65f81c7dbf1",
+        "event_type": "ORDER_CREATED",
+        "event_timestamp": "2026-09-22T13:44:22.778495+00:00",
+        "source": "ordering_api"
+    },
+    "order": {
+        "OrderID": 2000038,
+        "CustomerID": 193955,
+        "OrderDate": "2026-09-22",
+        "Status": "Confirmed"
+    },
+    "order_details": [
+        {
+            "OrderDetailID": 5000092,
+            "OrderID": 2000038,
+            "ProductID": 8774,
+            "Quantity": 1,
+            "UnitPrice": 717.51,
+            "Discount": 15.0
+        }
+    ],
+    "payment": {
+        "PaymentID": 2000038,
+        "OrderID": 2000038,
+        "PaymentMethod": "Credit Card",
+        "PaymentDate": "2026-09-22",
+        "Amount": 745.26,
+        "PaymentStatus": "Completed"
+    },
+    "shipment": {
+        "ShipmentID": 500038,
+        "OrderID": 2000038,
+        "ShipperID": 521,
+        "ShipDate": "2026-09-23",
+        "DeliveryDate": "2026-09-27"
+    },
+    "summary": {
+        "subtotal": 609.88,
+        "discount": 107.63,
+        "tax_rate": 0.14,
+        "tax_amount": 85.38,
+        "shipping_cost": 50.0,
+        "total_amount": 745.26
+    }
+}

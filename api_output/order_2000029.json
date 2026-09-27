@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "event_id": "7abf0cb2-d55b-46d3-9860-5bbcc8e2d9d3",
+        "event_type": "ORDER_CREATED",
+        "event_timestamp": "2026-09-22T13:44:22.762562+00:00",
+        "source": "ordering_api"
+    },
+    "order": {
+        "OrderID": 2000029,
+        "CustomerID": 400067,
+        "OrderDate": "2026-09-22",
+        "Status": "Confirmed"
+    },
+    "order_details": [
+        {
+            "OrderDetailID": 5000068,
+            "OrderID": 2000029,
+            "ProductID": 4924,
+            "Quantity": 4,
+            "UnitPrice": 384.85,
+            "Discount": 10.0
+        },
+        {
+            "OrderDetailID": 5000069,
+            "OrderID": 2000029,
+            "ProductID": 593,
+            "Quantity": 2,
+            "UnitPrice": 283.12,
+            "Discount": 5.0
+        },
+        {
+            "OrderDetailID": 5000070,
+            "OrderID": 2000029,
+            "ProductID": 7225,
+            "Quantity": 5,
+            "UnitPrice": 613.57,
+            "Discount": 0.0
+        }
+    ],
+    "payment": {
+        "PaymentID": 2000029,
+        "OrderID": 2000029,
+        "PaymentMethod": "Debit Card",
+        "PaymentDate": "2026-09-22",
+        "Amount": 5740.01,
+        "PaymentStatus": "Completed"
+    },
+    "shipment": {
+        "ShipmentID": 500029,
+        "OrderID": 2000029,
+        "ShipperID": 9,
+        "ShipDate": "2026-09-23",
+        "DeliveryDate": "2026-09-27"
+    },
+    "summary": {
+        "subtotal": 4991.24,
+        "discount": 182.25,
+        "tax_rate": 0.14,
+        "tax_amount": 698.77,
+        "shipping_cost": 50.0,
+        "total_amount": 5740.01
+    }
+}
