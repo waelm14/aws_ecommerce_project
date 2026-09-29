@@ -7,14 +7,14 @@ import urllib3
 # CONFIGURATION
 # ============================================================
 
-BUCKET = "aws-ecommerce-data-omar-2026"
+BUCKET = "aws-ecommerce-data-wael-2026"
 
 ORDERS_PREFIX = "api_raw/orders/"
 CHECKPOINT_KEY = "api_raw/checkpoint/last_order_id.txt"
 
 INITIAL_ORDER_ID = 2000000
 
-API_URL = "https://cce7-102-44-47-148.ngrok-free.app/api/orders"
+API_URL = "https://upswing-ahead-scanning.ngrok-free.dev/api/orders"
 
 BATCH_SIZE = 1000
 

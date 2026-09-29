@@ -6,7 +6,7 @@
       "Action": [
         "iam:PassRole"
       ],
-      "Resource": "arn:aws:iam::863063109253:role/service-role/AWSGlueServiceRole-Ecommerce"
+      "Resource": "arn:aws:iam::139268476834:role/AWSGlueServiceRole-Ecommerce"
     }
   ]
 }
